@@ -4,7 +4,7 @@ Star Shooter is a 2D arcade-like game where players control a spaceship in space
 I developed this game following the Udemy course [The Ultimate Guide to Game Development with Unity](https://www.udemy.com/course/the-ultimate-guide-to-game-development-with-unity/)
 <br>
 <br>
-<img src="screenshots/gameplay.png" alt="Gameplay Screenshot" width="480" height="270">
+<img src="Screenshots/gameplay.png" alt="Gameplay Screenshot" width="480" height="270">
 <br>
 <br>
 ## Features
@@ -13,11 +13,11 @@ I developed this game following the Udemy course [The Ultimate Guide to Game Dev
 - Avoid enemy ships while destroying them with lasers.
 <br>
 <br>
-<img src="screenshots/laser.gif" alt="Gameplay Screenshot" width="480" height="270">
+<img src="Screenshots/laser.gif" alt="Gameplay Screenshot" width="480" height="270">
 - Collect power-ups for temporary advantages: speed boost, triple shot, and a protective barrier.
 <br>
 <br>
-<img src="screenshots/Powerup.gif" alt="Gameplay Screenshot" width="480" height="270">
+<img src="Screenshots/Powerup.gif" alt="Gameplay Screenshot" width="480" height="270">
 <br>
 <br>
 - Increase your score by eliminating enemy ships (10 points per enemy).
